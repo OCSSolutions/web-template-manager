@@ -1,0 +1,9 @@
+Package: web-template-manager
+Version: 1.00
+Section: devel
+Priority: optional
+Architecture: all
+Depends: python
+Maintainer: Robert W. Oliver II <rwoliver2@gmail.com>
+Description: Web Template Manager is an open-source, cross-platform command line tool written in Python for working with web templates (such as those created by Adobe Dreamweaver and Microsoft Expression)
+
