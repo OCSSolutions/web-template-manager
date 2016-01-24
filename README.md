@@ -4,6 +4,25 @@ An open-source, command line tool for working with web templates created by prog
 
 ## Installation
 
+### Debian, Ubuntu, and Linux Mint
+
+```
+wget https://github.com/OCSSolutions/web-template-manager/raw/master/web-template-manager.deb
+sudo dpkg -i web-template-manager.deb
+```
+
+### All Other Linux Platforms, Mac, and UNIX
+
+```
+wget https://raw.githubusercontent.com/OCSSolutions/web-template-manager/master/wtm.py
+```
+
+Then copy script to a location of your choice, probably `/usr/local/bin`
+
+### Windows
+
+Install Python, then download wtm.py via the link above.
+
 ## Usage
 
 ```
